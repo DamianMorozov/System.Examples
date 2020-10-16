@@ -5,3 +5,6 @@
 
 ## WPF.IsFileLocked
 ![](Assets/WPF.IsFileLocked.png?raw=true)
+
+## Wpf.ProcessSpy
+![](Assets/Wpf.ProcessSpy.png?raw=true)
