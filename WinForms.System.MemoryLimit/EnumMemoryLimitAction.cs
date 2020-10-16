@@ -1,4 +1,4 @@
-﻿namespace WinForms.System.MemoryLimit
+﻿namespace WinForms.MemoryLimit
 {
     public enum EnumMemoryLimitAction
     {

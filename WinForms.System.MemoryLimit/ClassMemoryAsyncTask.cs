@@ -7,7 +7,7 @@ using WinForms.Utils;
 
 // ReSharper disable IdentifierTypo
 
-namespace WinForms.System.MemoryLimit
+namespace WinForms.MemoryLimit
 {
     /// <summary>
     /// Task memory.

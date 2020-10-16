@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using WinForms.Utils;
 
-namespace WinForms.System.MemoryLimit
+namespace WinForms.MemoryLimit
 {
     public partial class Form1 : Form
     {

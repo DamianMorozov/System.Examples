@@ -1,4 +1,4 @@
-﻿namespace WinForms.System.MemoryLimit
+﻿namespace WinForms.MemoryLimit
 {
     partial class Form1
     {

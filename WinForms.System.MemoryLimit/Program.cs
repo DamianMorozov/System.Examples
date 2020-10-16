@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace WinForms.System.MemoryLimit
+namespace WinForms.MemoryLimit
 {
     internal static class Program
     {

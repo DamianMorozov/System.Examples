@@ -7,8 +7,8 @@
     <ProjectGuid>{274C5851-4443-441F-AF8C-617043179865}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WinForms.System.MemoryLimit</RootNamespace>
-    <AssemblyName>WinForms.System.MemoryLimit</AssemblyName>
+    <RootNamespace>WinForms.MemoryLimit</RootNamespace>
+    <AssemblyName>WinForms.MemoryLimit</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>WinForms.System.MemoryLimit.Program</StartupObject>
+    <StartupObject>WinForms.MemoryLimit.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

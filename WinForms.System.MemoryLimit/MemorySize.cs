@@ -1,6 +1,6 @@
 ﻿// ReSharper disable UnusedMember.Global
 
-namespace WinForms.System.MemoryLimit
+namespace WinForms.MemoryLimit
 {
     public class Size
     {

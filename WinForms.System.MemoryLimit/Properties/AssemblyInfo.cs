@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("WinForms.System.MemoryLimit")]
+[assembly: AssemblyTitle("WinForms.MemoryLimit")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Damian Viktorovich Morozov")]
-[assembly: AssemblyProduct("WinForms.System.MemoryLimit")]
+[assembly: AssemblyProduct("WinForms.MemoryLimit")]
 [assembly: AssemblyCopyright("Copyright © 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -31,5 +31,5 @@ using System.Runtime.InteropServices;
 // Можно задать все значения или принять номера сборки и редакции по умолчанию 
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.1.11.0")]
-[assembly: AssemblyFileVersion("0.1.11.0")]
+[assembly: AssemblyVersion("0.1.20.0")]
+[assembly: AssemblyFileVersion("0.1.20.0")]
