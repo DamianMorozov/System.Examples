@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.11] - 2020-10-16
+### Changed
+- Used nuget package WinForms.Utils
+
 ## [0.1.10] - 2020-10-11
 ### Added
 - .gitattributes
