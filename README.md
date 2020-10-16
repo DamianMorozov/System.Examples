@@ -1,7 +1,7 @@
-# System.Examples
+# Examples of system calls
 
 ## WinForms.System.MemoryLimit
+![](Assets/WinForms.MemoryLimit.png?raw=true)
 
-### For the success compile use the repository "WinForms.Utils" 
-
-![](Assets/WinForms.System.MemoryLimit.png?raw=true)
+## WPF.IsFileLocked
+![](Assets/WPF.IsFileLocked.png?raw=true)
