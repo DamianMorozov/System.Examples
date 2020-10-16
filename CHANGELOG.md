@@ -6,9 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.11] - 2020-10-16
+## [0.1.20] - 2020-10-16
+### Added
+- Nuget package WinForms.Utils
+- WPF.IsFileLocked project
 ### Changed
-- Used nuget package WinForms.Utils
+- Renamed WinForms.System.MemoryLimit project to WinForms.MemoryLimit
 
 ## [0.1.10] - 2020-10-11
 ### Added
